@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>MonsterShop</title>
   
-  
+  <subtitle>Yolo</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://oddyolo.github.io/"/>
@@ -10,7 +10,7 @@
   <id>http://oddyolo.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Yolo</name>
     
   </author>
   
@@ -34,7 +34,6 @@
       
     
     </summary>
-    
     
     
   </entry>
