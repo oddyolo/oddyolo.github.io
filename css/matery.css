@@ -92,7 +92,7 @@ hr {
 }
 
 blockquote {
-    border-left: 5px solid #6a6a6b;
+    border-left: 5px solid #42b983;
     padding: 1rem 0.8rem 0.2rem 0.8rem;
     color: #666;
     background-color: rgba(66, 185, 131, .1);
@@ -168,7 +168,6 @@ mark {
     margin-bottom: 0;
 }
 
-/* 整体背景颜色，包括导航、移动端的导航、页尾、标签页等的背景颜色. */
 .bg-color {
     background-image: linear-gradient(to right, #2a548c 0%, #2a548c 100%);
 }
@@ -410,7 +409,6 @@ header .go-back i {
 }
 
 @-webkit-keyframes rainbow {
- /* 动态切换背景颜色. */
     0%,
     100% {
         background: rgba(156, 39, 176, 0.75);
@@ -451,7 +449,6 @@ header .go-back i {
 }
 
 @keyframes rainbow {
-/* 动态切换背景颜色. */
     0%,
     100% {
         background: rgba(156, 39, 176, 0.75);
@@ -778,11 +775,11 @@ article .article-tags .chip {
 }
 
 .prev-next .left-badge {
-    border-radius: 0 5px 5px 0;
+    border-radius: 8px 0 8px 0;
 }
 
 .prev-next .right-badge {
-    border-radius: 5px 0 0 5px;
+    border-radius: 0 8px 0 8px;
     right: 10px;
 }
 
